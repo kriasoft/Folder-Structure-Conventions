@@ -29,7 +29,7 @@ files are not supposed to be compiled).
 
 ### Automated tests
 
-Automated tests are usually place into the `test` or, less commonly, into the `tests` folder.
+Automated tests are usually placed into the `test` or, less commonly, into the `tests` folder.
 
 > **Q: Why tests are placed into a seporate folder, as opposed to having them closer to the code under test?**
 >
