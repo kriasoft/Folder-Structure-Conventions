@@ -8,7 +8,6 @@ Folder Structure Conventions
     .
     ├── build                   # Compiled files (alternatively `dist`)
     ├── docs                    # Documentation files (alternatively `doc`)
-    ├── scripts                 # Utility scripts used for developent and deployment
     ├── src                     # Source files (alternatively `lib` or `app`)
     ├── test                    # Unit, integration and other tests (alternatively `tests`)
     ├── tools                   # Tools and utilities
