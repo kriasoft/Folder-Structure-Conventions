@@ -6,16 +6,16 @@ Folder Structure Conventions
 ### A typical top-level directory layout
 
     .
-    ├── build                   # Compiled files (or `dist`)
+    ├── build                   # Compiled files (alternatively `dist`)
     ├── docs                    # Documentation files
     ├── scripts                 # Scripts used for developent (test runner etc.)
-    ├── src                     # Source files (or `lib`, `app`)
-    ├── test                    # Unit, integration and other tests
+    ├── src                     # Source files (alternatively `lib` or `app`)
+    ├── test                    # Unit, integration and other tests (alternatively `tests`)
     ├── tools                   # Utilities
     ├── LICENSE
     └── README.md
 
-> - Use short lowercase names at least for the top-level files and folders except `LICENSE`, `README.md`
+> Use short lowercase names at least for the top-level files and folders except `LICENSE`, `README.md`
 
 ### Source files
 
