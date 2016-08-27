@@ -47,7 +47,7 @@ Automated tests are usually placed into the `test` or, less commonly, into the `
 ### Documentation files
 
 Often it is beneficial to include some reference data into the project, such as
-Reach-Text Format (RTF) documentation, which is usually stored into the `docs`
+Rich Text Format (RTF) documentation, which is usually stored into the `docs`
 or, less commonly, into the `doc` folder.
 
     .
