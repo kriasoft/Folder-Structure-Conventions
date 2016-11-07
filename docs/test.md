@@ -1,1 +1,1 @@
-see [LICENSE](./LICENSE) for details.
+see [LICENSE](../LICENSE) for details.
