@@ -1,0 +1,22 @@
+{
+  "name": "folder",
+  "version": "1.0.0",
+  "description": "Folder Structure Conventions ============================",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/riteshe63/Folder-Structure-Conventions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/riteshe63/Folder-Structure-Conventions/issues"
+  },
+  "homepage": "https://github.com/riteshe63/Folder-Structure-Conventions#readme"
+}
