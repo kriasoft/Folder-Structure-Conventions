@@ -9,7 +9,7 @@ Folder Structure Conventions
     ├── build                   # Compiled files (alternatively `dist`)
     ├── docs                    # Documentation files (alternatively `doc`)
     ├── src                     # Source files (alternatively `lib` or `app`)
-    ├── test                    # Automated tests (alternatively `spec` or `tests`)
+    ├── tests                   # Automated tests (alternatively `spec` or `test`)
     ├── tools                   # Tools and utilities
     ├── LICENSE
     └── README.md
