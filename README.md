@@ -6,12 +6,14 @@ Folder Structure Conventions
 ### A typical top-level directory layout
 
     .
-    ├── build                   # Compiled files (alternatively `dist`)
-    ├── docs                    # Documentation files (alternatively `doc`)
-    ├── src                     # Source files (alternatively `lib` or `app`)
-    ├── test                    # Automated tests (alternatively `spec` or `tests`)
-    ├── tools                   # Tools and utilities
+    ├── business_layer          # the functional business logic. It will act as a bridge of communication for the presentation_layer and data_layer
+    ├── data_layer              # comprises of the database/data storage system and data access layer
+    ├── db                      # this folder contain database file (sqlite, access,...)
+    ├── libs                    # this folder contain extension or tools for run application
+    ├── presentation_layer      # the front end layer. The user will interact with to access the features of our application
+    ├── utilities               # utilities
     ├── LICENSE
+    ├── debug.log
     └── README.md
 
 > Use short lowercase names at least for the top-level files and folders except
